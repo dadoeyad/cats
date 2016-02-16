@@ -14,7 +14,7 @@ def cat_me(number):
     owners_moves = []
 
     # look for cats
-    for i in range(1000):
+    for i in range(100000):
         for obj_id in range(len(cats)):
             cat_found_in_station = False
 
